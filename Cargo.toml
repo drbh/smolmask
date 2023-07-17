@@ -1,8 +1,8 @@
 [package]
 name = "smolmask"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-description = "A small library for storing small binary masks in a compact way."
+description = "A small library for storing small binary masks in just a single integer."
 license = "MIT"
 
 [dependencies]
